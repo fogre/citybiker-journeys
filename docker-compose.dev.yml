@@ -1,0 +1,45 @@
+version: '3.8'
+
+services:
+  api:
+    image: citybiker-api-dev
+    build:
+      context: ./api/
+      dockerfile: dev.Dockerfile
+    volumes:
+      - ./api:/usr/src/app
+    ports:
+      - 3001:3001
+    depends_on:
+      citybiker-db-dev:
+        condition: service_healthy
+    environment:
+      - DATABASE_URL=postgres://postgres:12345678asd@citybiker_db_dev:5432/dev_db
+      - PORT=3001
+    
+  citybiker-db-dev:
+    image: postgres:14.1-alpine
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=12345678asd
+      - POSTGRES_DB=dev_db
+    ports:
+      - 5432:5432
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    container_name: citybiker_db_dev
+
+  citybiker-db-test:
+    image: postgres:14.1-alpine
+    restart: always
+    environment:
+      - POSTGRES_USER=root
+      - POSTGRES_PASSWORD=12345678asd
+      - POSTGRES_DB=test_db
+    ports:
+      - 5433:5432
+    container_name: citybiker_db_test
