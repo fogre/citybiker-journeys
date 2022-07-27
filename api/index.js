@@ -1,6 +1,8 @@
 const express = require('express')
 const cors = require('cors')
 require('express-async-errors')
+
+const { connectToDatabase } = require('./db/sequelize')
 const { PORT, ENV } = require('./utils/config')
 
 //middleware
@@ -14,10 +16,15 @@ app.use('/', (req, res) => {
 })
 
 //serve
-if (ENV !== 'test') {
+const startServer = async () => {
+  await connectToDatabase()
   app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`)
   })
+}
+
+if (ENV !== 'test') {
+  startServer()
 }
 
 module.exports = app
