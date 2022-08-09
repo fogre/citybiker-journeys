@@ -1,4 +1,5 @@
 const { Model, DataTypes } = require('sequelize')
+const Joi = require('joi')
 const { sequelize } = require('../sequelize')
 
 class Trip extends Model {}
@@ -46,3 +47,16 @@ Trip.init({
   timestamps: false,
   modelName: 'trip'
 })
+
+const tripSchema = Joi.object({
+  departureStation: Joi.number().integer().required(),
+  returnStation: Joi.number().integer().required(),
+  distance: Joi.number().integer().min(10).required(),
+  time: Joi.number().integer().min(10).required(),
+  date: Joi.string().isoDate().required()
+})
+
+module.exports = {
+  Trip,
+  tripSchema
+}

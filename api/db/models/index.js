@@ -1,7 +1,9 @@
-const Station = require('./station')
-const Trip = require('./trip')
+const { Station, stationSchema } = require('./station')
+const { Trip, tripSchema } = require('./trip')
 
 module.exports = {
   Station,
-  Trip
+  stationSchema,
+  Trip,
+  tripSchema
 }

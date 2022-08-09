@@ -1,4 +1,5 @@
 const { Model, DataTypes } = require('sequelize')
+const Joi = require('joi')
 const { sequelize } = require('../sequelize')
 
 class Station extends Model {}
@@ -27,12 +28,18 @@ Station.init({
     }
   },
   coordinateX: {
-    type: DataTypes.NUMBER,
+    type: DataTypes.STRING,
     allowNull: false,
+    validate: {
+      isNumeric: true
+    }
   },
   coordinateY: {
-    type: DataTypes.NUMBER,
+    type: DataTypes.STRING,
     allowNull: false,
+    validate: {
+      isNumeric: true
+    }
   }
 }, {
   sequelize,
@@ -41,3 +48,15 @@ Station.init({
   modelName: 'station'
 })
 
+const stationSchema = Joi.object({
+  id: Joi.number().integer().required(),
+  name: Joi.string().required(),
+  address: Joi.string().required(),
+  coordinateX: Joi.string().required(),
+  coordinateY: Joi.string().required()
+})
+
+module.exports =  {
+  Station,
+  stationSchema
+}

@@ -1,0 +1,14 @@
+Departure,Return,Departure station id,Departure station name,Return station id,Return station name,Covered distance (m),Duration (sec.)
+2021-05-31T23:08:39,2021-05-31T23:15:10,007,Designmuseo,017,Varsapuistikko,1274,391
+2021-05-31T23:08:29,2021-05-31T23:15:17,731,Leppävaarankäytävä,707,Majurinkulma,1433,401
+2021-05-31T23:07:58,2021-05-31T23:33:33,006,Hietalahdentori,054,Gyldenintie,4422,1532
+2021-05-31T23:07:55,2021-05-31T23:08:18,294,Postipuisto,294,Postipuisto,12,21
+2021-05-31T23:50:19,2021-06-01T00:05:58,116,Linnanmäki,145,Pohjolankatu,3248,935
+2021-05-31T23:50:05,2021-06-01T00:01:22,147,Käpylän asema,232,Oulunkylän asema,1633,672
+2021-05-31T23:50:00,2021-05-31T23:55:48,069,Kalevankatu,062,Välimerenkatu,1131,345
+2021-05-31T23:49:59,2021-05-31T23:59:49,147,Käpylän asema,232,Oulunkylän asema,1695,589
+2021-05-31T23:49:59,2021-05-31T23:55:38,069,Kalevankatu,062,Välimerenkatu,1125,336
+2021-05-31T23:49:59,2021-05-31T23:55:38,069,Kalevankatu,062,Välimerenkatu,1125,336
+2021-05-31T23:49:36,2021-06-01T00:40:20,547,Jämeräntaival,547,Jämeräntaival,6,5
+2021-05-31T23:49:18,2021-06-01T00:05:09,201,Länsisatamankuja,041,Ympyrätalo,4,10
+2021-05-31T23:48:53,2021-06-01T00:03:49,030,Itämerentori,050,Melkonkuja,20,5

@@ -1,0 +1,50 @@
+FID,ID,Nimi,Namn,Name,Osoite,Adress,Kaupunki,Stad,Operaattor,Kapasiteet,x,y
+1,501,Hanasaari,Hanaholmen,Hanasaari,Hanasaarenranta 1,Hanaholmsstranden 1,Espoo,Esbo,CityBike Finland,10,24.840319,60.16582
+2,503,Keilalahti,Kägelviken,Keilalahti,Keilalahdentie 2,Kägelviksvägen 2,Espoo,Esbo,CityBike Finland,28,24.827467,60.171524
+3,505,Westendinasema,Westendstationen,Westendinasema,Westendintie 1,Westendvägen 1,Espoo,Esbo,CityBike Finland,16,24.805758,60.168266
+4,507,Golfpolku,Golfstigen,Golfpolku,Golfpolku 3,Golfstigen 3,Espoo,Esbo,CityBike Finland,16,24.796136,60.168143
+5,509,Revontulentie,Norrskensvägen,Revontulentie,Revontulentie 10,Norrskensvägen 10,Espoo,Esbo,CityBike Finland,30,24.802938,60.171551
+6,511,Sateentie,Regnvägen,Sateentie,Sateentie 2,Regnvägen 2,Espoo,Esbo,CityBike Finland,18,24.810688,60.173424
+7,513,Hakalehto,Hagliden,Hakalehto,Merituulentie 18,Havsvindsvägen 18,Espoo,Esbo,CityBike Finland,24,24.79139,60.173567
+8,515,Oravannahkatori,Gråskinnstorget,Oravannahkatori,Oravannahkatori 1,Gråskinnstorget 1,Espoo,Esbo,CityBike Finland,16,24.792559,60.175769
+9,517,Länsituuli,Västanvinden,Länsituuli,Länsituulenkuja 3,Västanvindsgränden 3,Espoo,Esbo,CityBike Finland,24,24.802049,60.175358
+10,518,Tuulimäki,Väderbacken,Tuulimäki,Itätuulenkuja 11,Östanvindsgränden 11,Espoo,Esbo,CityBike Finland,18,24.806051,60.174144
+11,519,Tapionaukio,Tapioplatsen,Tapionaukio,Tapionaukio 9,Tapioplatsen 9,Espoo,Esbo,CityBike Finland,26,24.805825,60.176168
+12,521,Kulttuuriaukio,Kulturplatsen,Kulttuuriaukio,Kulttuuriaukio 2,Kulturplatsen 2,Espoo,Esbo,CityBike Finland,30,24.803942,60.177588
+13,523,Ahertajantie,Flitarvägen,Ahertajantie,Ahertajantie 1,Flitargränden 1,Espoo,Esbo,CityBike Finland,20,24.797984,60.17875
+14,525,Mäntyviita,Tallbysket,Mäntyviita,Mäntyviita 2,Tallbysket 2,Espoo,Esbo,CityBike Finland,10,24.810974,60.178702
+15,527,Otsolahti,Björnviken,Otsolahti,Otsolahdentie 18,Björnviksvägen 18,Espoo,Esbo,CityBike Finland,18,24.817423,60.178655
+16,529,Keilaniemi (M),Kägeludden (M),Keilaniemi (M),Keilaniementie 4,Kägeluddsvägen 4,Espoo,Esbo,CityBike Finland,40,24.82895,60.175233
+17,531,Keilaranta,Kägelstranden,Keilaranta,Keilaranta 13,Kägelstranden 13,Espoo,Esbo,CityBike Finland,24,24.835132,60.178762
+18,532,Betonimies,Betongblandaren,Betonimies,Betonimiehenkuja 1,Betongblandargränden 1,Espoo,Esbo,CityBike Finland,16,24.831804,60.180027
+19,533,Tekniikantie,Teknikvägen,Tekniikantie,Tekniikantie 3,Teknikvägen 3,Espoo,Esbo,CityBike Finland,18,24.824747,60.180806
+20,537,Innopoli,Innopoli,Innopoli,Tekniikantie 14,Teknikvägen 14,Espoo,Esbo,CityBike Finland,20,24.81422,60.185096
+21,538,Hagalundinpuisto,Hagalundinpuisto,Hagalundsparken,Tekniikantie 15,Teknikvägen 15,Espoo,Esbo,CityBike Finland,14,24.817403,60.18363
+22,539,"Aalto-yliopisto (M), Tietot","Aalto-universitetet (M),","Aalto University (M), Tietotie",Tietotie 4,Datavägen 4,Espoo,Esbo,CityBike Finland,20,24.820099,60.184987
+23,541,"Aalto-yliopisto (M), Korkea","Aalto-universitetet (M),","Aalto University (M), Korkeakoulua",Otaniementie 10,Otnäsvägen 10,Espoo,Esbo,CityBike Finland,42,24.826671,60.184312
+24,543,Otaranta,Oststranden,Otaranta,Otaranta 6,Otstranden 6,Espoo,Esbo,CityBike Finland,22,24.837133,60.18483
+25,545,Sähkömies,Strömkarlen,Sähkömies,Otakaari 3,Otsvängen 3,Espoo,Esbo,CityBike Finland,12,24.829985,60.188499
+26,547,Jämeräntaival,Bistervägen,Jämeräntaival,Otakaari 18,Otsvängen 18,Espoo,Esbo,CityBike Finland,30,24.835033,60.188118
+27,549,Maarinranta,Marstranden,Maarinranta,Maarinrannantie 4,Marstrandvägen 4,Espoo,Esbo,CityBike Finland,12,24.810193,60.187529
+28,551,Tietäjä,Siaren,Tietäjä,Valkjärventie 4,Valkjärvivägen 4,Espoo,Esbo,CityBike Finland,20,24.807083,60.189143
+29,553,Metsänneidonpolku,Skogsjungfrustigen,Metsänneidonpolku,Metsänneidonpolku 5,Skogsjungfrustigen 5,Espoo,Esbo,CityBike Finland,19,24.806152,60.186731
+30,555,Kalevalantie,Kalevalavägen,Kalevalantie,Kalevalantie 7,Kalevalavägen 7,Espoo,Esbo,CityBike Finland,21,24.804022,60.184765
+31,557,Louhentori,Louhitorget,Louhentori,Louhentie 16,Louhivägen 16,Espoo,Esbo,CityBike Finland,16,24.796959,60.18715
+32,559,Pohjankulma,Norrhörnet,Pohjankulma,Louhentie 2,Louhivägen 2,Espoo,Esbo,CityBike Finland,25,24.794014,60.18288
+33,561,Koivu-Mankkaa,Björkmankans,Koivu-Mankkaa,Urpu 6,Hänget 6,Espoo,Esbo,CityBike Finland,23,24.78576,60.182976
+34,563,Mankkaanlaaksontie,Mankansdalsvägen,Mankkaanlaaksontie,Mankkaanlaaksontie 1,Mankansdalsvägen 1,Espoo,Esbo,CityBike Finland,26,24.780478,60.188706
+35,565,Mankkaanaukio,Mankansplatsen,Mankkaanaukio,Mankkaantie 3,Mankasvägen 3,Espoo,Esbo,CityBike Finland,20,24.769021,60.194599
+36,571,Tapiolan urheilupuisto,Hagalunds idrottspark,Tapiola Sports Park,Urheilupuistontie 3,Idrottsparksvägen 3,Espoo,Esbo,CityBike Finland,32,24.784654,60.177749
+37,573,Urheilupuisto (M),Idrottsparken (M),Sports Park (M),Jousenpuistonkatu 4,Bågparksgatan 4,Espoo,Esbo,CityBike Finland,28,24.779428,60.17465
+38,575,Tontunmäentie,Tomtekullavägen,Tontunmäentie,Tontunmäentie 25,Tomtekullavägen 25,Espoo,Esbo,CityBike Finland,16,24.769667,60.176107
+39,577,Olarinluoma,Olarsbäcken,Olarinluoma,Olarinluoma 19,Olarsbäcken 19,Espoo,Esbo,CityBike Finland,18,24.760606,60.180848
+40,579,Niittymaa,Ängsmalmen,Niittymaa,Niittymaantie 2,Ängsmalmsvägen 2,Espoo,Esbo,CityBike Finland,21,24.775913,60.171127
+41,581,Niittykumpu (M),Ängskulla (M),Niittykumpu (M),Merituulentie 38,Havsvindsvägen 38,Espoo,Esbo,CityBike Finland,35,24.763184,60.170758
+42,583,Haukilahdenkatu,Gäddviksgatan,Haukilahdenkatu,Ahventie 2,Abborrvägen 2,Espoo,Esbo,CityBike Finland,16,24.772708,60.166481
+43,585,Haukilahdenaukio,Gäddviksplatsen,Haukilahdenaukio,Haukilahdenranta 2,Gäddviksstranden 2,Espoo,Esbo,CityBike Finland,16,24.775882,60.162396
+44,587,Hauenkallio,Gäddberget,Hauenkallio,Hauenkalliontie 12,Gäddbergsvägen 12,Espoo,Esbo,CityBike Finland,12,24.767831,60.162477
+45,589,Haukilahdenranta,Gäddviksstranden,Haukilahdenranta,Haukilahdenranta 13,Gäddviksstranden 13,Espoo,Esbo,CityBike Finland,16,24.769864,60.158048
+46,591,Mellstenintie,Mellstensvägen,Mellstenintie,Mellstenintie 17,Mellstensvägen 17,Espoo,Esbo,CityBike Finland,25,24.773993,60.154941
+47,593,Toppelundintie,Toppelundsvägen,Toppelundintie,Toppelundintie 11,Toppelundsvägen 11,Espoo,Esbo,CityBike Finland,12,24.782477,60.1591405
+48,595,Westendintie,Westendvägen,Westendintie,Westendintie 34,Westendvägen 34,Espoo,Esbo,CityBike Finland,16,24.791754,60.158194
+49,596,Toppelundinportti,Toppelundsporten,Toppelundinportti,Haukilahdenkatu 2,Gäddviksgatan 2,Espoo,Esbo,CityBike Finland,20,24.7848628,60.1624471
