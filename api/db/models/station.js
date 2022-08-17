@@ -6,7 +6,7 @@ class Station extends Model {}
 
 Station.init({
   id: {
-    type: DataTypes.INTEGER,
+    type: DataTypes.BIGINT,
     primaryKey: true,
   },
   name: {
@@ -48,6 +48,7 @@ Station.init({
   modelName: 'station'
 })
 
+//validation schema
 const stationSchema = Joi.object({
   id: Joi.number().integer().required(),
   name: Joi.string().required(),

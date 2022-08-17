@@ -1,14 +1,45 @@
 Departure,Return,Departure station id,Departure station name,Return station id,Return station name,Covered distance (m),Duration (sec.)
-2021-05-31T23:08:39,2021-05-31T23:15:10,007,Designmuseo,017,Varsapuistikko,1274,391
-2021-05-31T23:08:29,2021-05-31T23:15:17,731,Leppävaarankäytävä,707,Majurinkulma,1433,401
-2021-05-31T23:07:58,2021-05-31T23:33:33,006,Hietalahdentori,054,Gyldenintie,4422,1532
-2021-05-31T23:07:55,2021-05-31T23:08:18,294,Postipuisto,294,Postipuisto,12,21
-2021-05-31T23:50:19,2021-06-01T00:05:58,116,Linnanmäki,145,Pohjolankatu,3248,935
-2021-05-31T23:50:05,2021-06-01T00:01:22,147,Käpylän asema,232,Oulunkylän asema,1633,672
-2021-05-31T23:50:00,2021-05-31T23:55:48,069,Kalevankatu,062,Välimerenkatu,1131,345
-2021-05-31T23:49:59,2021-05-31T23:59:49,147,Käpylän asema,232,Oulunkylän asema,1695,589
-2021-05-31T23:49:59,2021-05-31T23:55:38,069,Kalevankatu,062,Välimerenkatu,1125,336
-2021-05-31T23:49:59,2021-05-31T23:55:38,069,Kalevankatu,062,Välimerenkatu,1125,336
-2021-05-31T23:49:36,2021-06-01T00:40:20,547,Jämeräntaival,547,Jämeräntaival,6,5
-2021-05-31T23:49:18,2021-06-01T00:05:09,201,Länsisatamankuja,041,Ympyrätalo,4,10
-2021-05-31T23:48:53,2021-06-01T00:03:49,030,Itämerentori,050,Melkonkuja,20,5
+2021-07-31T23:54:47,2021-08-01T00:03:42,49,Albertinkatu,30,Itämerentori,1586,532
+2021-07-31T23:54:47,2021-08-01T00:04:43,32,Haukilahdenkatu,17,Merihaka,2511,592
+2021-07-31T23:54:31,2021-08-01T00:05:16,3,Itäkeskus Metrovarikko,24,Siilitie (M),1944,649
+2021-07-31T23:54:24,2021-08-01T00:03:33,49,Albertinkatu,30,Itämerentori,1605,547
+2021-07-31T23:54:23,2021-08-01T00:03:15,31,Intiankatu,13,Arabian kauppakeskus,857,532
+2021-07-31T23:54:20,2021-08-01T00:19:40,23,Valimon asema,5,Kustaankatu,6187,1517
+2021-07-31T23:53:56,2021-08-01T00:00:00,32,Vilhonvuorenkatu,11,Isoisänsilta,1127,360
+2021-07-31T23:53:54,2021-08-01T00:19:50,46,Valimon asema,10,Gebhardinaukio,6313,1552
+2021-07-31T23:53:48,2021-07-31T23:57:16,5,Jäähalli,2,Olympiastadion,637,203
+2021-07-31T23:53:34,2021-08-01T00:02:27,25,Kalasatama (M),12,Haukilahdenkatu,1457,529
+2021-07-31T23:53:31,2021-08-01T00:26:15,6,Jalavatie,3,Messeniuksenkatu,1004,1959
+2021-07-31T23:53:25,2021-08-01T00:10:48,41,Puotila (M),25,Mamsellimyllynkatu,2958,1038
+2021-07-31T23:53:19,2021-08-01T00:03:05,3,Linnanmäki,42,Haapaniemenkatu,1962,582
+2021-07-31T23:53:18,2021-08-01T13:09:54,3,Muusantori,33,Säteri,3308,872
+2021-07-31T23:53:17,2021-08-01T00:04:09,33,Linnanmäki,42,Haapaniemenkatu,1990,648
+2021-07-31T23:53:15,2021-07-31T23:54:04,44,Valimon asema,20,Valimon asema,0,45
+2021-07-31T23:53:14,2021-08-01T00:04:11,6,Messeniuksenkatu,7,Korppaanmäentie,2144,653
+2021-07-31T23:53:03,2021-08-01T00:00:46,17,Varsapuistikko,41,Ympyrätalo,1029,460
+2021-07-31T23:53:02,2021-08-01T00:00:32,19,Rautatientori / itä,44,Tyynenmerenkatu,2788,451
+2021-07-31T23:52:59,2021-08-01T00:15:02,5,Munkkivuoren ostoskeskus,20,Kesäkatu,3589,1319
+2021-07-31T23:52:59,2021-08-01T00:10:33,4,Korjaamo,16,Leppäsuonaukio,2329,1049
+2021-07-31T23:52:57,2021-08-01T00:06:14,32,Eränkävijäntori,23,Relanderinaukio,3063,792
+2021-07-31T23:52:55,2021-08-01T00:14:53,4,Munkkivuoren ostoskeskus,1,Kesäkatu,3632,1314
+2021-07-31T23:52:33,2021-08-01T00:05:14,2,Korkeasaari,18,Merihaka,1854,760
+2021-07-31T23:52:33,2021-08-01T00:05:48,1,Korkeasaari,19,Merihaka,1737,791
+2021-07-31T23:52:32,2021-08-01T00:20:38,7,Intiankatu,9,Linnanmäki,3081,1681
+2021-07-31T23:52:25,2021-08-01T00:10:05,40,Hakaniemi (M),27,Sompasaari,1790,1055
+2021-07-31T23:52:15,2021-08-01T00:18:12,11,Haagan tori,14,Arabian kauppakeskus,5207,1552
+2021-07-31T23:52:12,2021-07-31T23:56:56,22,Fleminginkatu,8,Venttiilikuja,815,284
+2021-07-31T23:52:09,2021-08-01T00:02:57,5,Laajalahden aukio,6,Teljäntie,1627,643
+2021-07-31T23:51:49,2021-08-01T01:01:45,4,Jalavatie,4,Messeniuksenkatu,933,283
+2021-05-31T23:50:19,2021-06-01T00:05:58,14,Linnanmäki,15,Pohjolankatu,3248,935
+2021-05-31T23:50:05,2021-06-01T00:01:22,8,Käpylän asema,21,Oulunkylän asema,1633,672
+2021-05-31T23:50:00,2021-05-31T23:55:48,49,Kalevankatu,32,Välimerenkatu,1131,345
+2021-05-31T23:49:59,2021-05-31T23:55:38,49,Kalevankatu,43,Välimerenkatu,1125,336
+2021-05-31T23:49:59,2021-05-31T23:55:38,49,Kalevankatu,44,Välimerenkatu,1125,336
+2021-05-31T23:49:59,2021-05-31T23:59:49,9,Käpylän asema,22,Oulunkylän asema,1695,589
+2021-05-31T23:49:36,2021-06-01T00:40:20,5,Jämeräntaival,28,Jämeräntaival,6,5
+2021-05-31T23:49:18,2021-06-01T00:05:09,10,Länsisatamankuja,41,Ympyrätalo,4,10
+2021-05-31T23:48:53,2021-06-01T00:03:49,30,Itämerentori,49,Melkonkuja,20,5
+2021-05-31T23:08:39,2021-05-31T23:15:10,7,Designmuseo,1,Varsapuistikko,1274,391
+2021-05-31T23:08:29,2021-05-31T23:15:17,1,Leppävaarankäytävä,32,Majurinkulma,1433,401
+2021-05-31T23:07:58,2021-05-31T23:33:33,6,Hietalahdentori,33,Gyldenintie,4422,1532
+2021-05-31T23:07:55,2021-05-31T23:08:18,4,Postipuisto,26,Postipuisto,12,21

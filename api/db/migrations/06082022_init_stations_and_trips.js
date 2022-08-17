@@ -6,6 +6,7 @@ module.exports = {
       id: {
         type: DataTypes.INTEGER,
         primaryKey: true,
+        allowNull: false
       },
       name: {
         type: DataTypes.STRING,
@@ -31,16 +32,6 @@ module.exports = {
         primaryKey: true,
         autoIncrement: true
       },
-      departure_station: {
-        type: DataTypes.INTEGER,
-        allowNull: false,
-        references: { model: 'stations', key: 'id' },
-      },
-      return_station: {
-        type: DataTypes.INTEGER,
-        allowNull: false,
-        references: { model: 'stations', key: 'id' },
-      },
       distance: {
         type: DataTypes.INTEGER,
         allowNull: false,
@@ -52,6 +43,16 @@ module.exports = {
       date: {
         type: DataTypes.STRING,
         allowNull: false,
+      },
+      departure_station: {
+        type: DataTypes.INTEGER,
+        allowNull: false,
+        references: { model: 'stations', key: 'id' }
+      },
+      return_station: {
+        type: DataTypes.INTEGER,
+        allowNull: false,
+        references: { model: 'stations', key: 'id' }
       }
     })
   },

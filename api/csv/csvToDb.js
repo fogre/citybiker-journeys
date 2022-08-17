@@ -4,7 +4,7 @@ const { parse } = require('csv-parse')
 /**
   * @function insertCsvToDb
   * @returns {void}
-  * @description inserts csv file to database
+  * @description inserts a csv file to database
   * @param Model a Sequelize model to bulkInsert
   * @param parseValidateFunction function to parse and validate the line object for db
   * @param filePath csv file location

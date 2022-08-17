@@ -10,16 +10,6 @@ Trip.init({
     primaryKey: true,
     autoIncrement: true
   },
-  departureStation: {
-    type: DataTypes.INTEGER,
-    allowNull: false,
-    references: { model: 'stations', key: 'id' },
-  },
-  returnStation: {
-    type: DataTypes.INTEGER,
-    allowNull: false,
-    references: { model: 'stations', key: 'id' },
-  },
   distance: {
     type: DataTypes.INTEGER,
     allowNull: false,
@@ -48,6 +38,7 @@ Trip.init({
   modelName: 'trip'
 })
 
+//validation schema
 const tripSchema = Joi.object({
   departureStation: Joi.number().integer().required(),
   returnStation: Joi.number().integer().required(),
