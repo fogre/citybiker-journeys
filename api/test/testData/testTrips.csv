@@ -3,7 +3,6 @@ Departure,Return,Departure station id,Departure station name,Return station id,R
 2021-07-31T23:54:47,2021-08-01T00:04:43,32,Haukilahdenkatu,17,Merihaka,2511,592
 2021-07-31T23:54:31,2021-08-01T00:05:16,3,Itäkeskus Metrovarikko,24,Siilitie (M),1944,649
 2021-07-31T23:54:24,2021-08-01T00:03:33,49,Albertinkatu,30,Itämerentori,1605,547
-2021-07-31T23:54:23,2021-08-01T00:03:15,31,Intiankatu,13,Arabian kauppakeskus,857,532
 2021-07-31T23:54:20,2021-08-01T00:19:40,23,Valimon asema,5,Kustaankatu,6187,1517
 2021-07-31T23:53:56,2021-08-01T00:00:00,32,Vilhonvuorenkatu,11,Isoisänsilta,1127,360
 2021-07-31T23:53:54,2021-08-01T00:19:50,46,Valimon asema,10,Gebhardinaukio,6313,1552
@@ -35,11 +34,17 @@ Departure,Return,Departure station id,Departure station name,Return station id,R
 2021-05-31T23:50:00,2021-05-31T23:55:48,49,Kalevankatu,32,Välimerenkatu,1131,345
 2021-05-31T23:49:59,2021-05-31T23:55:38,49,Kalevankatu,43,Välimerenkatu,1125,336
 2021-05-31T23:49:59,2021-05-31T23:55:38,49,Kalevankatu,44,Välimerenkatu,1125,336
-2021-05-31T23:49:59,2021-05-31T23:59:49,9,Käpylän asema,22,Oulunkylän asema,1695,589
-2021-05-31T23:49:36,2021-06-01T00:40:20,5,Jämeräntaival,28,Jämeräntaival,6,5
-2021-05-31T23:49:18,2021-06-01T00:05:09,10,Länsisatamankuja,41,Ympyrätalo,4,10
-2021-05-31T23:48:53,2021-06-01T00:03:49,30,Itämerentori,49,Melkonkuja,20,5
-2021-05-31T23:08:39,2021-05-31T23:15:10,7,Designmuseo,1,Varsapuistikko,1274,391
-2021-05-31T23:08:29,2021-05-31T23:15:17,1,Leppävaarankäytävä,32,Majurinkulma,1433,401
-2021-05-31T23:07:58,2021-05-31T23:33:33,6,Hietalahdentori,33,Gyldenintie,4422,1532
-2021-05-31T23:07:55,2021-05-31T23:08:18,4,Postipuisto,26,Postipuisto,12,21
+2021-05-31T23:49:59,2021-05-31T23:59:49,13,Käpylän asema,10,Oulunkylän asema,1695,589
+2021-05-31T23:49:59,2021-05-31T23:59:49,13,Käpylän asema,11,Oulunkylän asema,1695,589
+2021-05-31T23:49:59,2021-05-31T23:59:49,13,Käpylän asema,11,Oulunkylän asema,1695,589
+2021-05-31T23:49:59,2021-05-31T23:59:49,13,Käpylän asema,22,Oulunkylän asema,1695,589
+2021-05-31T23:49:59,2021-05-31T23:59:49,13,Käpylän asema,22,Oulunkylän asema,1695,589
+2021-05-31T23:49:59,2021-05-31T23:59:49,13,Käpylän asema,22,Oulunkylän asema,1695,589
+2021-07-31T23:54:23,2021-08-01T00:03:15,31,Intiankatu,13,Arabian kauppakeskus,857,532
+2021-07-31T23:54:23,2021-08-01T00:03:15,31,Intiankatu,13,Arabian kauppakeskus,857,532
+2021-07-31T23:54:23,2021-08-01T00:03:15,31,Intiankatu,13,Arabian kauppakeskus,857,532
+2021-07-31T23:54:23,2021-08-01T00:03:15,12,Intiankatu,13,Arabian kauppakeskus,857,532
+2021-07-31T23:54:23,2021-08-01T00:03:15,12,Intiankatu,13,Arabian kauppakeskus,857,532
+2021-07-31T23:54:23,2021-08-01T00:03:15,9,Intiankatu,13,Arabian kauppakeskus,857,532
+2021-07-31T23:54:23,2021-08-01T00:03:15,33,Intiankatu,13,Arabian kauppakeskus,857,532
+2021-07-31T23:54:23,2021-08-01T00:03:15,21,Intiankatu,13,Arabian kauppakeskus,857,532
